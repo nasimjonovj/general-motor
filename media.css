@@ -1,0 +1,125 @@
+@media screen and ( max-width:1300px) {
+    .header{
+        display: none;
+
+    }
+    .navbar{
+        padding: 30px 20px;
+    }
+}
+@media screen and ( max-width:900px) {
+    .navbar{
+        height: 40px;
+        padding: 0 20px;
+    }
+    .nav_item{
+        display: none;
+    }
+    .nav__menu{
+        display: block;
+        padding-right: 20px;
+    }
+    .na__item{
+        padding-top: 20px;
+    }
+}
+@media screen and ( max-width:500px) {
+    .navbar{
+        width: 100%;
+        padding: 0 20px;
+    }
+    .na__item{
+        padding-top: 10px;
+        padding-left: 20px;
+    }
+    .nav__menu{
+        padding-left: 55%;
+    }
+    .main{
+        width: 100%;
+        overflow: hidden;
+    }
+    .card__text{
+        font-size: 14px;
+    }
+    .card__item{
+        width: 400px ;
+        margin-right: 0;
+        height: 400px;
+        gap: 10px;
+        margin: 20px;
+        margin-left: -180px;
+    }
+    .card__item h3{
+        font-size: 14px;
+    }
+    .knee{
+        margin-left: 30px;
+        width: 400px;
+    }
+    .btn{
+        margin-left: 140px;
+    }
+    .youtobe{
+        margin-right: 200px;
+        padding:0 30px;
+    }
+    .foot{
+        display: block;
+        height: 200px;
+    }
+    .foot__text{
+        width: 400px;
+        height: 200px;
+    }
+    .foot__img{
+     width: 400px;
+     height: 200px;
+     margin-bottom: 0px;
+     margin-top: 150px;
+    }
+    .footer{
+        height: 300px;
+        background: #555;
+        margin-top: 380px;
+        padding: 0 10px;
+        gap: 10px;
+
+    }
+    .fot{
+        width: 200px;
+        background: #555;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.navbar{
+    padding: 0 20px;
+}
+.nav__collection{
+    display: none;
+}
+.nav__menu{
+    display: block;
+}

@@ -1,0 +1,272 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+    position: relative;
+}
+.header{
+    padding:0 5%;
+    width: 100%;
+    height: 45px;
+    background: #bbb;
+    display: flex;
+    align-items: center;
+
+}
+.kaka{
+    padding:20px 10px;
+    padding-top: 30px;
+}
+.text{
+    padding: 10px;
+ color: blue;
+}
+.fa-text{
+    padding: 10px;
+    font-weight: 200;
+    font-size: 15px;
+    color:#666
+}
+.inp{
+    border-radius: 20px;
+   border: none;
+   outline: none;
+   padding:3px 10px;
+}
+.head{
+    padding-left: 120px;
+}
+.tex{
+    padding: 10px;
+    font-weight: 200;
+    font-size: 15px;
+    color:#666
+
+}
+.kaka:hover{
+    color: #fff;
+    cursor: pointer;
+}
+.fa-brands{
+    padding: 20px 5px;
+    padding-top: 30px;
+}
+.fa-brands:hover{
+    color: #fff;
+    cursor: pointer;
+}
+.navbar{
+    width: 100%;
+    height: 70px;
+    background: #fff;
+    display: flex;
+    align-items: center;
+    padding: 0 30px;
+    position: static;
+  
+   
+}
+.nav__logo{
+   font-family: cursive;
+   padding-left: 10%;
+}
+.card{
+   display: flex;
+   flex-wrap: wrap;
+   
+   gap: 40px;
+    margin-left:200px;
+}
+.card__item{
+    width: 300px;
+    height: 450px;
+    border: 1px solid rgb(156, 144, 144);
+}
+.item{
+    width: 100%;
+    height: 70%;
+    background: url(https://uzautomotors.com/images/uploads/7482a267c480e0124b665f533075c25e.png)no-repeat center/cover;
+}
+.itemn{
+    width: 100%;
+    height: 69%;
+    background: url(https://uzautomotors.com/images/uploads/8aa658a054b9a119191608485728d100.png)no-repeat center/cover;
+}
+.uzb{
+    padding-left: 10px;
+    font-weight: 200;
+}
+.card__text{
+    padding: 10px;
+}
+.items{
+    width: 100%;
+    height: 70%;
+    background: url(https://uzautomotors.com/images/uploads/f05ee542b3541157f5fca19396fe5f70.png)no-repeat center/cover;
+}
+
+
+.nav_collection{
+    display: flex;
+    list-style: none;
+    gap: 20px ;
+    
+}
+.nav__menu{
+   padding-right: 20px;
+}
+.nav__menu span{
+    display: block;
+    
+    width: 30px;
+    height: 5px;
+    background: #222;
+    margin-top: 3px;
+    border-radius: 10px;
+}
+
+.nav_item{
+    padding-top: 10px;
+}
+.main{
+    width: 100%;
+    height: 450px;
+    background: url(https://uzautomotors.com/images/uploads/3ca3d3b54471be88c93a6ef1ebb98cf8.png)no-repeat center/cover;
+    overflow: hidden;
+   
+}
+.title{
+    text-align: center;
+    padding: 30px;
+    color: #333;
+}
+.btn{
+   padding: 10px 30px ;
+   background: rgb(14, 69, 124);
+   color: #fff;
+   border: none;
+   border-radius: 10px;
+   margin-left: 48%;
+   margin-top: 6%;
+}
+.knee{
+    width: 100%;
+    height: 400px;
+    margin-top: 6%;
+    background: url(https://uzautomotors.com/images/uploads/winter-app.jpg)no-repeat center/cover;
+   
+}
+.leg{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    margin-left: 25px;
+}
+.leg__item h2{
+    font-weight: 200;
+    color: #fff;
+    padding-top: 170px;
+    font-size: 24px;
+    padding-left: 10px;
+}
+.leg__item h3{
+    font-weight: 200;
+    color: #fff;
+    padding-top: 170px;
+    font-size: 24px;
+    padding-left: 10px;
+}
+.leg__item{
+    width: 400px;
+    height: 250px;
+    border-radius: 10px;
+   
+    background: url(https://uzautomotors.com/documents/media/play.jpg)no-repeat center/cover;
+
+}
+.youtobe{
+    padding: 0px 30px;
+    border-radius: 10px;
+    font-size: 18px;
+    background: #fff;
+    border: 1px solid grey;
+    margin-left: 43%;
+    margin-top: 6%;
+
+}
+.youtobe span{
+    color: dodgerblue;
+    margin: 48%;
+}
+.foot{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 6%;
+
+
+}
+.foot__text{
+    width: 50%;
+    padding-left: 20px;
+    line-height: 1.5;
+    padding-top: 30px;
+}
+
+.foot__img{
+    width: 50%;
+    height: 100%;
+    background: url(https://uzautomotors.com/images/uploads/9927386f7d6b6a6adbb5ebd73c56d6aa.jpg)no-repeat center/cover;
+
+
+
+}
+.footer{ 
+    margin-top: 30px;
+    width: 100%;
+    height: 350px;
+    background: #444;
+    color: #fff;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+
+}
+.bob{
+    width: 200px;
+    height: 100px;
+    margin-top: 30px;
+
+    background: url(https://uzautomotors.com/chevro/images/logo.png)no-repeat center/cover;
+
+    
+}
+.fot h1{
+    padding-left: 40px;
+    padding-top: 20px;
+}
+.fot{
+    height: 100%;
+    width: 300px;
+   
+}
+.yuyu{
+    background: #555;
+}
+.fot p{
+    
+    padding-top: 30px;
+    list-style: none;
+}
+.harita{
+    color: rgb(12, 74, 135);
+}
+.soat{
+    color: #888;
+}
+.fot li{
+  padding-top: 20px;
+}
